@@ -1,6 +1,15 @@
 <!DOCTYPE html>
 <html lang="en" class="scroll-smooth">
 <head>
+
+<!-- Google Tag Manager -->
+<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-5ZJLD72X');</script>
+<!-- End Google Tag Manager -->
+
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Proposal Submitted | Thank You - Ajath Infotech</title>
@@ -38,6 +47,12 @@
     </style>
 </head>
 <body class="bg-[#F8F9FF] text-[#464555] antialiased min-h-screen flex items-center justify-center relative overflow-hidden">
+
+<!-- Google Tag Manager (noscript) -->
+<noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-5ZJLD72X"
+height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+<!-- End Google Tag Manager (noscript) -->
+
 
     <!-- Glowing Background Ambient Blurs -->
     <div class="absolute top-0 right-0 w-[600px] h-[600px] bg-[#DAE2FD] rounded-full filter blur-[120px] opacity-40 pointer-events-none -z-10 translate-x-1/3 -translate-y-1/3"></div>
