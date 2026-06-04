@@ -656,7 +656,7 @@
                     <p class="text-xs text-slate-500 leading-relaxed font-light px-2">
                         App Store submissions and 3-month free warranty.
                     </p>
-                </a>
+                </div>
             </div>
         </div>
     </section>

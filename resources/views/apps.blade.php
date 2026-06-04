@@ -515,6 +515,84 @@
         </div>
     </section>
 
+    <!-- Workflow Section -->
+    <!-- Proven App Delivery Process -->
+    <section id="process" class="py-20 lg:py-28 bg-[#F8F9FF] border-t border-slate-200/40">
+        <div class="max-w-7xl mx-auto px-6">
+            <div class="text-center max-w-3xl mx-auto mb-16 space-y-4">
+                <span class="text-xs font-bold uppercase tracking-widest text-[#3525CD] bg-indigo-50 border border-indigo-100 px-3 py-1 rounded-full">Workflow</span>
+                <h2 class="text-3xl sm:text-4xl font-extrabold text-[#0B1C30] tracking-tight">
+                    Our Proven App Delivery Process
+                </h2>
+                <p class="text-slate-500 font-light">
+                    An agile five-stage blueprint ensuring transparency and rigorous code auditing at each cycle.
+                </p>
+            </div>
+
+            <!-- Horizontal steps wrapper (Stacks on mobile) -->
+            <div class="relative grid grid-cols-1 md:grid-cols-5 gap-8 pt-8">
+                <!-- Timeline progress bar (Desktop only) -->
+                <div class="absolute top-[52px] left-[10%] right-[10%] h-0.5 bg-indigo-100 hidden md:block -z-10"></div>
+
+                <!-- Step 1 -->
+                <div class="text-center group space-y-4">
+                    <div class="w-16 h-16 rounded-full bg-white border-4 border-indigo-500/20 group-hover:border-[#3525CD] flex items-center justify-center font-bold text-xl text-[#3525CD] shadow-md mx-auto transition-colors duration-300 bg-white z-10 relative">
+                        01
+                    </div>
+                    <h3 class="font-bold text-[#0B1C30] text-lg">Discovery Call</h3>
+                    <p class="text-xs text-slate-500 leading-relaxed font-light px-2">
+                        Understanding your vision and business goals.
+                    </p>
+                </div>
+
+                <!-- Step 2 -->
+                <div class="text-center group space-y-4">
+                    <div class="w-16 h-16 rounded-full bg-white border-4 border-indigo-500/20 group-hover:border-[#3525CD] flex items-center justify-center font-bold text-xl text-[#3525CD] shadow-md mx-auto transition-colors duration-300 bg-white z-10 relative">
+                        02
+                    </div>
+                    <h3 class="font-bold text-[#0B1C30] text-lg">UI/UX Design</h3>
+                    <p class="text-xs text-slate-500 leading-relaxed font-light px-2">
+                        High-fidelity prototypes and native user flows.
+                    </p>
+                </div>
+
+                <!-- Step 3 -->
+                <div class="text-center group space-y-4">
+                    <div class="w-16 h-16 rounded-full bg-white border-4 border-indigo-500/20 group-hover:border-[#3525CD] flex items-center justify-center font-bold text-xl text-[#3525CD] shadow-md mx-auto transition-colors duration-300 bg-white z-10 relative">
+                        03
+                    </div>
+                    <h3 class="font-bold text-[#0B1C30] text-lg">Development</h3>
+                    <p class="text-xs text-slate-500 leading-relaxed font-light px-2">
+                        Agile sprint-by-sprint coding with regular builds.
+                    </p>
+                </div>
+
+                <!-- Step 4 -->
+                <div class="text-center group space-y-4">
+                    <div class="w-16 h-16 rounded-full bg-white border-4 border-indigo-500/20 group-hover:border-[#3525CD] flex items-center justify-center font-bold text-xl text-[#3525CD] shadow-md mx-auto transition-colors duration-300 bg-white z-10 relative">
+                        04
+                    </div>
+                    <h3 class="font-bold text-[#0B1C30] text-lg">Testing</h3>
+                    <p class="text-xs text-slate-500 leading-relaxed font-light px-2">
+                        Rigorous QA on 50+ actual iPhone & Android devices.
+                    </p>
+                </div>
+
+                <!-- Step 5 -->
+                <div class="text-center group space-y-4">
+                    <div class="w-16 h-16 rounded-full bg-white border-4 border-indigo-500/20 group-hover:border-[#3525CD] flex items-center justify-center font-bold text-xl text-[#3525CD] shadow-md mx-auto transition-colors duration-300 bg-white z-10 relative">
+                        05
+                    </div>
+                    <h3 class="font-bold text-[#0B1C30] text-lg">Launch & Support</h3>
+                    <p class="text-xs text-slate-500 leading-relaxed font-light px-2">
+                        App Store submissions and 3-month free warranty.
+                    </p>
+                </div>
+            </div>
+        </div>
+    </section>
+
+
     <!-- Footer -->
     <footer class="py-10 bg-[#0B1C30] text-slate-400 border-t border-slate-800 text-xs">
         <div class="max-w-7xl mx-auto px-6 flex flex-col sm:flex-row items-center justify-between gap-4">
