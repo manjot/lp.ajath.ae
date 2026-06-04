@@ -483,7 +483,121 @@
         </div>
     </section>
 
-    <!-- ═══════ FINAL CTA ═══════ -->
+    
+    <!-- ═══════ STATS / FEATURES ═══════ -->
+    <section class="py-20 lg:py-28 bg-[#F8F9FF] border-t border-slate-200/40">
+        <div class="max-w-7xl mx-auto px-6">
+            <div class="grid lg:grid-cols-2 gap-12 items-center">
+                <div class="space-y-6">
+                    <span class="text-xs font-bold uppercase tracking-widest text-[#3525CD] bg-indigo-50 border border-indigo-100 px-3 py-1 rounded-full">Features</span>
+                    <h2 class="text-3xl sm:text-4xl font-extrabold text-[#0B1C30] tracking-tight">The Industry-Specific Software Development Expertise</h2>
+                    <p class="text-slate-500 font-light leading-relaxed">In this digital world, our IT team makes sure all the global businesses of almost every industry gets the digital solutions carted based on their custom requirement.</p>
+                    <p class="text-slate-500 font-light leading-relaxed">We have a reputation for producing top-notch online and mobile applications that go above and above. Being one of UAE top mobile app development companies, we are experts in creating scalable and responsive solutions that meet your company's requirements. Our proficiency in UAE application development guarantees smooth operation and creativity. With years of expertise, our UAE mobile app development company assists companies in surviving and expanding rapidly in the cutthroat digital market.</p>
+                </div>
+                <div class="rounded-3xl overflow-hidden shadow-2xl border border-slate-200">
+                    <img src="https://i0.wp.com/www.ajath.com/wp-content/uploads/2023/12/Mind-Map.png?w=1000&ssl=1" alt="Mind Map" class="w-full h-auto object-cover">
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <!-- ═══════ AWARDS & CLIENTS ═══════ -->
+    <section class="py-20 bg-white border-t border-slate-200/40">
+        <div class="max-w-7xl mx-auto px-6">
+            <div class="grid lg:grid-cols-2 gap-16 items-center">
+                <div class="space-y-6">
+                    <span class="text-xs font-bold uppercase tracking-widest text-[#3525CD] bg-indigo-50 border border-indigo-100 px-3 py-1 rounded-full">Awards</span>
+                    <h2 class="text-3xl sm:text-4xl font-extrabold text-[#0B1C30] tracking-tight">We have achieved many national & international awards for quality.</h2>
+                </div>
+                <div class="grid grid-cols-3 gap-6">
+                    <img src="/assets/img/consult-4/resource/award-1.jpg" alt="Award 1" class="w-full rounded-xl shadow-sm hover:scale-105 transition-transform">
+                    <img src="/assets/img/consult-4/resource/award-2.jpg" alt="Award 2" class="w-full rounded-xl shadow-sm hover:scale-105 transition-transform">
+                    <img src="/assets/img/consult-4/resource/award-3.jpg" alt="Award 3" class="w-full rounded-xl shadow-sm hover:scale-105 transition-transform">
+                </div>
+            </div>
+            <div class="mt-20 pt-10 border-t border-slate-100">
+                <p class="text-center text-sm font-semibold text-slate-400 uppercase tracking-widest mb-8">Trusted by Leading Brands</p>
+                <div class="flex flex-wrap justify-center items-center gap-10 opacity-60 grayscale hover:grayscale-0 transition-all duration-500">
+                    <img src="/assets/img/consult-4/clients/1.png" alt="Client" class="h-12 w-auto">
+                    <img src="/assets/img/consult-4/clients/2.png" alt="Client" class="h-12 w-auto">
+                    <img src="/assets/img/consult-4/clients/3.png" alt="Client" class="h-12 w-auto">
+                    <img src="/assets/img/consult-4/clients/4.png" alt="Client" class="h-12 w-auto">
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <!-- ═══════ BLOG ═══════ -->
+    <section id="blog" class="py-20 lg:py-28 bg-[#F0F2FA]/60 border-t border-slate-200/40">
+        <div class="max-w-7xl mx-auto px-6">
+            <div class="flex flex-col md:flex-row md:items-end justify-between gap-8 mb-16">
+                <div class="space-y-4 max-w-lg">
+                    <span class="text-xs font-bold uppercase tracking-widest text-[#3525CD] bg-indigo-50 border border-indigo-100 px-3 py-1 rounded-full">Blog</span>
+                    <h2 class="text-3xl sm:text-4xl font-extrabold text-[#0B1C30] tracking-tight">Hello & welcome Let us tell you our story!</h2>
+                </div>
+                <div class="max-w-md">
+                    <p class="text-slate-500 font-light">After 24 years of success in inspiring teams to deliver top results, I can unequivocally say the answer to business success is in how you lead your people.</p>
+                </div>
+            </div>
+            <div class="grid lg:grid-cols-4 gap-6">
+                <!-- Highlight Blog -->
+                <a href="https://www.ajath.com/mobile-app-design-user-experience/" target="_blank" class="lg:col-span-2 group bg-white rounded-3xl overflow-hidden shadow-sm hover:shadow-xl transition-all border border-slate-100">
+                    <div class="h-64 overflow-hidden relative">
+                        <img src="https://i0.wp.com/www.ajath.com/wp-content/uploads/2025/07/The-Ultimate-Guide-to-Mo-bile-App-Development-4.png" alt="Mobile App Design" class="w-full h-full object-cover group-hover:scale-105 transition-transform duration-500">
+                    </div>
+                    <div class="p-8">
+                        <h3 class="text-xl font-bold text-[#0B1C30] mb-3 group-hover:text-[#3525CD] transition-colors">Why Mobile App Design Is Key to a Great User Experience</h3>
+                        <p class="text-sm text-slate-500 font-light leading-relaxed mb-6">In today’s fast-paced digital world, mobile app design plays a crucial role in how users interact with apps. From ordering food and shopping for essentials to booking cabs and managing work tasks, people rely on apps every day.</p>
+                        <span class="inline-flex items-center text-sm font-semibold text-[#3525CD] group-hover:translate-x-1 transition-transform">Read more <svg class="w-4 h-4 ml-1" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2.5" d="M9 5l7 7-7 7"/></svg></span>
+                    </div>
+                </a>
+                
+                <div class="space-y-6">
+                    <!-- Small Blog 1 -->
+                    <a href="https://www.ajath.com/artificial-intelligence-technologies/" target="_blank" class="group block bg-white rounded-2xl overflow-hidden shadow-sm hover:shadow-md transition-all border border-slate-100">
+                        <div class="h-32 overflow-hidden">
+                            <img src="https://i0.wp.com/www.ajath.com/wp-content/uploads/2024/02/Untitled-design-23.png" alt="AI Tech" class="w-full h-full object-cover group-hover:scale-105 transition-transform duration-500">
+                        </div>
+                        <div class="p-4">
+                            <h5 class="font-bold text-sm text-[#0B1C30] group-hover:text-[#3525CD] leading-snug">Explore Artificial Intelligence and Get the Best Out of It</h5>
+                        </div>
+                    </a>
+                    <!-- Small Blog 2 -->
+                    <a href="https://www.ajath.com/future-of-chemical-industry-with-ai/" target="_blank" class="group block bg-white rounded-2xl overflow-hidden shadow-sm hover:shadow-md transition-all border border-slate-100">
+                        <div class="h-32 overflow-hidden">
+                            <img src="https://i0.wp.com/www.ajath.com/wp-content/uploads/2024/02/Untitled-design-25.png" alt="Chemical AI" class="w-full h-full object-cover group-hover:scale-105 transition-transform duration-500">
+                        </div>
+                        <div class="p-4">
+                            <h5 class="font-bold text-sm text-[#0B1C30] group-hover:text-[#3525CD] leading-snug">Future Chemical Industry Based on AI.</h5>
+                        </div>
+                    </a>
+                </div>
+                
+                <div class="space-y-6">
+                    <!-- Small Blog 3 -->
+                    <a href="https://www.ajath.com/application-of-ai-in-car-manufacturing/" target="_blank" class="group block bg-white rounded-2xl overflow-hidden shadow-sm hover:shadow-md transition-all border border-slate-100">
+                        <div class="h-32 overflow-hidden">
+                            <img src="https://i0.wp.com/www.ajath.com/wp-content/uploads/2024/02/Untitled-design-27.png" alt="Car AI" class="w-full h-full object-cover group-hover:scale-105 transition-transform duration-500">
+                        </div>
+                        <div class="p-4">
+                            <h5 class="font-bold text-sm text-[#0B1C30] group-hover:text-[#3525CD] leading-snug">Application of AI in Car Manufacturing</h5>
+                        </div>
+                    </a>
+                    <!-- Small Blog 4 -->
+                    <a href="https://www.ajath.com/transforming-healthcare-industry-using-ai/" target="_blank" class="group block bg-white rounded-2xl overflow-hidden shadow-sm hover:shadow-md transition-all border border-slate-100">
+                        <div class="h-32 overflow-hidden">
+                            <img src="https://i0.wp.com/www.ajath.com/wp-content/uploads/2024/02/Untitled-design-26.png" alt="Healthcare AI" class="w-full h-full object-cover group-hover:scale-105 transition-transform duration-500">
+                        </div>
+                        <div class="p-4">
+                            <h5 class="font-bold text-sm text-[#0B1C30] group-hover:text-[#3525CD] leading-snug">Transforming healthcare industry using AI</h5>
+                        </div>
+                    </a>
+                </div>
+            </div>
+        </div>
+    </section>
+
+<!-- ═══════ FINAL CTA ═══════ -->
     <section id="contact" class="py-20 bg-[#0B1C30]">
         <div class="max-w-4xl mx-auto px-6 text-center space-y-6">
             <span class="text-xs font-bold uppercase tracking-widest text-indigo-300 bg-indigo-900/40 border border-indigo-800 px-3 py-1 rounded-full">Contact Us</span>
