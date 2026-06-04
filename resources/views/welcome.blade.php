@@ -604,7 +604,7 @@
                 <div class="absolute top-[52px] left-[10%] right-[10%] h-0.5 bg-indigo-100 hidden md:block -z-10"></div>
 
                 <!-- Step 1 -->
-                <div class="text-center group space-y-4">
+                <a href="/process/discovery-call" class="block text-center group space-y-4 cursor-pointer hover:-translate-y-1 transition-transform duration-300">
                     <div class="w-16 h-16 rounded-full bg-white border-4 border-indigo-500/20 group-hover:border-[#3525CD] flex items-center justify-center font-bold text-xl text-[#3525CD] shadow-md mx-auto transition-colors duration-300 bg-white z-10 relative">
                         01
                     </div>
@@ -612,10 +612,10 @@
                     <p class="text-xs text-slate-500 leading-relaxed font-light px-2">
                         Understanding your vision and business goals.
                     </p>
-                </div>
+                </a>
 
                 <!-- Step 2 -->
-                <div class="text-center group space-y-4">
+                <a href="/process/ui-ux-design" class="block text-center group space-y-4 cursor-pointer hover:-translate-y-1 transition-transform duration-300">
                     <div class="w-16 h-16 rounded-full bg-white border-4 border-indigo-500/20 group-hover:border-[#3525CD] flex items-center justify-center font-bold text-xl text-[#3525CD] shadow-md mx-auto transition-colors duration-300 bg-white z-10 relative">
                         02
                     </div>
@@ -623,10 +623,10 @@
                     <p class="text-xs text-slate-500 leading-relaxed font-light px-2">
                         High-fidelity prototypes and native user flows.
                     </p>
-                </div>
+                </a>
 
                 <!-- Step 3 -->
-                <div class="text-center group space-y-4">
+                <a href="/process/development" class="block text-center group space-y-4 cursor-pointer hover:-translate-y-1 transition-transform duration-300">
                     <div class="w-16 h-16 rounded-full bg-white border-4 border-indigo-500/20 group-hover:border-[#3525CD] flex items-center justify-center font-bold text-xl text-[#3525CD] shadow-md mx-auto transition-colors duration-300 bg-white z-10 relative">
                         03
                     </div>
@@ -634,10 +634,10 @@
                     <p class="text-xs text-slate-500 leading-relaxed font-light px-2">
                         Agile sprint-by-sprint coding with regular builds.
                     </p>
-                </div>
+                </a>
 
                 <!-- Step 4 -->
-                <div class="text-center group space-y-4">
+                <a href="/process/testing" class="block text-center group space-y-4 cursor-pointer hover:-translate-y-1 transition-transform duration-300">
                     <div class="w-16 h-16 rounded-full bg-white border-4 border-indigo-500/20 group-hover:border-[#3525CD] flex items-center justify-center font-bold text-xl text-[#3525CD] shadow-md mx-auto transition-colors duration-300 bg-white z-10 relative">
                         04
                     </div>
@@ -645,10 +645,10 @@
                     <p class="text-xs text-slate-500 leading-relaxed font-light px-2">
                         Rigorous QA on 50+ actual iPhone & Android devices.
                     </p>
-                </div>
+                </a>
 
                 <!-- Step 5 -->
-                <div class="text-center group space-y-4">
+                <a href="/process/launch-support" class="block text-center group space-y-4 cursor-pointer hover:-translate-y-1 transition-transform duration-300">
                     <div class="w-16 h-16 rounded-full bg-white border-4 border-indigo-500/20 group-hover:border-[#3525CD] flex items-center justify-center font-bold text-xl text-[#3525CD] shadow-md mx-auto transition-colors duration-300 bg-white z-10 relative">
                         05
                     </div>
@@ -656,7 +656,7 @@
                     <p class="text-xs text-slate-500 leading-relaxed font-light px-2">
                         App Store submissions and 3-month free warranty.
                     </p>
-                </div>
+                </a>
             </div>
         </div>
     </section>

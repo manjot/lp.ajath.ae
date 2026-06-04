@@ -64,3 +64,10 @@ Route::get('/thank-you', function () {
 
 // Security scan route
 Route::get('/admin-secure-scan', [DashboardController::class, 'runSecurityScan'])->name('admin.scan');
+
+// Process Pages
+Route::get('/process/discovery-call', function () { return view('process.discovery-call'); });
+Route::get('/process/ui-ux-design', function () { return view('process.ui-ux-design'); });
+Route::get('/process/development', function () { return view('process.development'); });
+Route::get('/process/testing', function () { return view('process.testing'); });
+Route::get('/process/launch-support', function () { return view('process.launch-support'); });
