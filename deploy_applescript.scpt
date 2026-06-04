@@ -20,7 +20,7 @@ if found then
     delay 1
     tell application "System Events"
         -- type the deploy script and press return
-        keystroke "rm -rf temp-deploy && git clone https://github.com/manjot/aviaj.git temp-deploy && rsync -a temp-deploy/ . && rm -rf temp-deploy && composer install --no-dev --optimize-autoloader && cp .env.example .env && php artisan key:generate && php -r \"file_exists('database/database.sqlite') || touch('database/database.sqlite');\" && php artisan migrate --force"
+        keystroke "rm -rf temp-deploy && git clone https://github.com/manjot/lp.ajath.ae.git temp-deploy && rsync -a temp-deploy/ . && rm -rf temp-deploy && composer install --no-dev --optimize-autoloader && cp .env.example .env && php artisan key:generate && php -r \"file_exists('database/database.sqlite') || touch('database/database.sqlite');\" && php artisan migrate --force"
         delay 0.5
         key code 36 -- Return key
         delay 5

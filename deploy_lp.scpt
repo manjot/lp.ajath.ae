@@ -23,7 +23,7 @@ if found then
         click at {600, 400}
         delay 0.5
         -- Run the complete single-threaded sequential deployment for lp.ajath.ae
-        keystroke "git config --global pack.threads 1 && git config --global indexpack.threads 1 && cd ~/lp.ajath.ae && rm -rf temp-deploy && git clone https://github.com/manjot/aviaj.git temp-deploy && rsync -a temp-deploy/ . && rm -rf temp-deploy && COMPOSER_MAX_PARALLEL_HTTP=1 composer install --no-dev --optimize-autoloader --ignore-platform-reqs --prefer-dist --no-interaction && cp .env.example .env && php artisan key:generate && touch database/database.sqlite && php artisan migrate --force && chmod -R 775 storage bootstrap/cache database && chmod 664 database/database.sqlite && php artisan config:clear && php artisan cache:clear"
+        keystroke "git config --global pack.threads 1 && git config --global indexpack.threads 1 && cd ~/lp.ajath.ae && rm -rf temp-deploy && git clone https://github.com/manjot/lp.ajath.ae.git temp-deploy && rsync -a temp-deploy/ . && rm -rf temp-deploy && COMPOSER_MAX_PARALLEL_HTTP=1 composer install --no-dev --optimize-autoloader --ignore-platform-reqs --prefer-dist --no-interaction && cp .env.example .env && php artisan key:generate && touch database/database.sqlite && php artisan migrate --force && chmod -R 775 storage bootstrap/cache database && chmod 664 database/database.sqlite && php artisan config:clear && php artisan cache:clear"
         delay 0.5
         key code 36 -- Return key
     end tell
