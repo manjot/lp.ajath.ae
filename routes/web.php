@@ -6,7 +6,23 @@ use Illuminate\Support\Facades\Route;
 // Marketing Landing Page
 Route::get('/', function () {
     return view('welcome');
+});\n
+Route::get('/case-studies/saas-hub', function () {
+    return view('case-studies.saas-hub');
 });
+
+Route::get('/case-studies/growthmark', function () {
+    return view('case-studies.growthmark');
+});
+
+Route::get('/case-studies/smartconnect', function () {
+    return view('case-studies.smartconnect');
+});
+
+Route::get('/apps', function () {
+    return view('apps');
+});
+
 
 // Dedicated Service Pages
 Route::get('/ios-development', function () {

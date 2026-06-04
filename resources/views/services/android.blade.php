@@ -48,7 +48,7 @@
                 We deliver robust Kotlin-based Android applications designed to scale. Our platforms are optimized to run seamlessly across all screen sizes and device types, matching strict security standards and performance guidelines.
             </p>
             <div class="pt-4 flex justify-center space-x-4">
-                <a href="/#lead-form" class="inline-flex items-center justify-center px-10 py-4 font-bold text-white bg-gradient-to-r from-[#3525CD] to-[#6B00B7] rounded-xl hover:from-[#4F46E5] hover:to-[#A855F7] shadow-lg shadow-indigo-600/15 transition-all">
+                <a href="/#lead-form" class="inline-flex items-center justify-center px-10 py-4 font-bold text-white bg-gradient-to-r from-[#3525CD] to-[#6B00B7] rounded-xl hover:from-[#4F46E5] hover:to-[#A855F7] shadow-lg shadow-indigo-600/15 transition-all whitespace-nowrap min-w-max">
                     Start Your Project
                 </a>
             </div>
