@@ -6,7 +6,7 @@ use Illuminate\Support\Facades\Route;
 // Marketing Landing Page
 Route::get('/', function () {
     return view('welcome');
-});\n
+});
 Route::get('/case-studies/saas-hub', function () {
     return view('case-studies.saas-hub');
 });
