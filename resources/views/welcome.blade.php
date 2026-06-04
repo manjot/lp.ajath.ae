@@ -245,7 +245,7 @@
                             </div>
                         </form>
                     </div>
-                </div>
+                </a>
             </div>
         </div>
     </section>
@@ -279,7 +279,7 @@
                 <div class="flex items-center space-x-2 hover:opacity-100 transition-opacity duration-300 col-span-2 md:col-span-1">
                     <div class="w-8 h-8 bg-indigo-500/10 flex items-center justify-center rounded-lg text-[#3525CD] font-bold text-xs">AD</div>
                     <span class="font-heading font-black text-sm text-[#0B1C30]">ABU DHABI VC</span>
-                </div>
+                </a>
             </div>
         </div>
     </section>
@@ -383,7 +383,7 @@
                     <a href="/ai-powered-apps" class="inline-flex items-center text-sm font-semibold text-[#A855F7] group-hover:translate-x-1 transition-transform mt-4 relative z-10">
                         Learn More <svg class="w-4 h-4 ml-1" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2.5" d="M9 5l7 7-7 7"/></svg>
                     </a>
-                </div>
+                </a>
             </div>
         </div>
     </section>
@@ -403,7 +403,7 @@
 
             <div class="grid grid-cols-1 md:grid-cols-3 gap-8">
                 <!-- Case Study 1 -->
-                <div class="bg-white rounded-3xl overflow-hidden border border-slate-100 shadow-sm hover:shadow-xl transition-all duration-300 flex flex-col justify-between">
+                <a href="/case-studies/saas-hub" class="block bg-white rounded-3xl overflow-hidden border border-slate-100 shadow-sm hover:shadow-xl transition-all duration-300 flex flex-col justify-between hover:-translate-y-1">
                     <div>
                         <!-- Colored top border accent -->
                         <div class="h-2 bg-gradient-to-r from-blue-500 to-indigo-500"></div>
@@ -428,10 +428,10 @@
                             <span class="text-[9px] uppercase font-bold text-slate-400 tracking-wider">GO-TO-MARKET</span>
                         </div>
                     </div>
-                </div>
+                </a>
 
                 <!-- Case Study 2 -->
-                <div class="bg-white rounded-3xl overflow-hidden border border-slate-100 shadow-sm hover:shadow-xl transition-all duration-300 flex flex-col justify-between">
+                <a href="/case-studies/growthmark" class="block bg-white rounded-3xl overflow-hidden border border-slate-100 shadow-sm hover:shadow-xl transition-all duration-300 flex flex-col justify-between hover:-translate-y-1">
                     <div>
                         <!-- Colored top border accent -->
                         <div class="h-2 bg-gradient-to-r from-purple-500 to-pink-500"></div>
@@ -456,10 +456,10 @@
                             <span class="text-[9px] uppercase font-bold text-slate-400 tracking-wider">STORE RATING</span>
                         </div>
                     </div>
-                </div>
+                </a>
 
                 <!-- Case Study 3 -->
-                <div class="bg-white rounded-3xl overflow-hidden border border-slate-100 shadow-sm hover:shadow-xl transition-all duration-300 flex flex-col justify-between">
+                <a href="/case-studies/smartconnect" class="block bg-white rounded-3xl overflow-hidden border border-slate-100 shadow-sm hover:shadow-xl transition-all duration-300 flex flex-col justify-between hover:-translate-y-1">
                     <div>
                         <!-- Colored top border accent -->
                         <div class="h-2 bg-gradient-to-r from-teal-400 to-emerald-500"></div>
@@ -484,7 +484,7 @@
                             <span class="text-[9px] uppercase font-bold text-slate-400 tracking-wider">UPTIME</span>
                         </div>
                     </div>
-                </div>
+                </a>
             </div>
         </div>
     </section>
@@ -580,7 +580,7 @@
                             </tr>
                         </tbody>
                     </table>
-                </div>
+                </a>
             </div>
         </div>
     </section>
@@ -656,7 +656,7 @@
                     <p class="text-xs text-slate-500 leading-relaxed font-light px-2">
                         App Store submissions and 3-month free warranty.
                     </p>
-                </div>
+                </a>
             </div>
         </div>
     </section>
@@ -739,7 +739,7 @@
                     <div x-show="activeFaq === 4" x-transition class="p-6 pt-0 text-sm text-slate-500 leading-relaxed font-light border-t border-slate-100 bg-white" style="display: none;">
                         We provide a 3-month free warranty covering all codebase repairs, crashes, and store listing stability audits. Beyond that, we support clients with dedicated SLA ongoing maintenance frameworks.
                     </div>
-                </div>
+                </a>
             </div>
         </div>
     </section>
